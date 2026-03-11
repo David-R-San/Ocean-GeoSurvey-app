@@ -96,6 +96,6 @@ This project is a prototype intended to demonstrate:
 
 # Author:
 
-David R.de Santana
+David R. de Santana
 
 
