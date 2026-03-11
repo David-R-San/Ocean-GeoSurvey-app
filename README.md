@@ -95,7 +95,7 @@ This project is a prototype intended to demonstrate:
 
 Some components (such as advanced error handling and full production hardening) are still under development.
 
-Author
+Author:
 
 David R.de Santana
 
