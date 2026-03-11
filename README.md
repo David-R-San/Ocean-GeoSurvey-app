@@ -93,7 +93,7 @@ This project is a prototype intended to demonstrate:
 
 -AI-assisted reporting
 
-Some components (such as advanced error handling and full production hardening) are still under development.
+-Some components (such as advanced error handling and full production hardening) are still under development.
 
 Author:
 
