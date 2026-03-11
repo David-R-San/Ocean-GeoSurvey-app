@@ -61,44 +61,27 @@ Start the server:
 uvicorn app.main:app --reload
 ```
 
-Usage Workflow
+##Usage Workflow
 1 Upload dataset
 POST /upload
-
-Upload the ocean temperature dataset in CSV format.
 
 2 Retrieve dataset metrics
 GET /metrics
 
-Returns dataset statistics such as:
-
-total data points
-
-average temperature
-
-average depth
-
 3 Detect anomalous temperature measurements
 GET /anomalies
-
-Uses statistical anomaly detection to identify abnormal temperature readings.
 
 4 Detect thermal events
 GET /events
 
-Groups anomalous measurements into thermal events based on time proximity and temperature deviation.
-
 5 Generate AI technical report
 GET /llm-report
 
-Generates a structured technical monitoring report using an LLM through the Hugging Face inference API.
-
-6 Reset dataset
+6 Reset dataset(optional)
 DELETE /data
 
-Removes all stored measurements from the database.
 
-Notes
+##Notes
 
 This project is a prototype intended to demonstrate:
 
