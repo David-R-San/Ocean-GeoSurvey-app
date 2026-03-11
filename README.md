@@ -61,7 +61,7 @@ Start the server:
 uvicorn app.main:app --reload
 ```
 
-##Usage Workflow
+#Usage Workflow
 1 Upload dataset
 POST /upload
 
@@ -81,7 +81,7 @@ GET /llm-report
 DELETE /data
 
 
-##Notes
+#Notes
 
 This project is a prototype intended to demonstrate:
 
@@ -95,7 +95,7 @@ This project is a prototype intended to demonstrate:
 
 -Some components (such as advanced error handling and full production hardening) are still under development.
 
-Author:
+#Author:
 
 David R.de Santana
 
