@@ -2,6 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-backend-green)](https://fastapi.tiangolo.com/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-LLM%20Inference-yellow)](https://huggingface.co/)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 Prototype system for processing oceanographic temperature data, detecting thermal anomalies, and generating automated technical monitoring reports.
