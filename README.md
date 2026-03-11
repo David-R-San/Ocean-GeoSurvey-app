@@ -1,10 +1,8 @@
 # Ocean-GeoSurvey-app
 
-![Python](https://img.shields.io/badge/python-3.11-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-backend-green)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-pandas-yellow)
-![AI Report](https://img.shields.io/badge/AI-LLM%20report-purple)
-![Status](https://img.shields.io/badge/status-prototype-orange)
+[![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-backend-green)](https://fastapi.tiangolo.com/)
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 Prototype system for processing oceanographic temperature data, detecting thermal anomalies, and generating automated technical monitoring reports.
 
