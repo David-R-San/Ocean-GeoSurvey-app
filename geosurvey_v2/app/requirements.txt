@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pandas
+pydantic
+python-multipart
+matplotlib
+requests
+openai
+reportlab
