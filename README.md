@@ -40,8 +40,10 @@ http://127.0.0.1:8000/docs
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-repo/ocean-geosurvey.git
-cd ocean-geosurvey
+git clone https://github.com/your-repo/ocean-geosurvey-app
+.git
+cd ocean-geosurvey-app
+
 ```
 Create a Conda environment:
 ```bash
